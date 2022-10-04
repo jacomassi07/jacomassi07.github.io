@@ -1,0 +1,362 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+body{
+    background-color:#1D1D1E;
+}
+
+h2{
+    font-family: 'Berkshire Swash', cursive;
+    color: white;
+    font-size: 85px;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Berkshire Swash', cursive;
+    color: white;
+    font-size: 40px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: white;
+    text-justify: inter-word;
+    text-align: justify;
+}
+
+.letra{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: white;
+    text-justify: inter-word;
+    text-align: justify;
+}
+
+.tcolor{
+    color: white;
+}
+
+.tcolor:hover{
+    color: #b9b2b2;
+}
+
+.containerTam{
+    width: 1024px;
+    height: 1570px;
+}
+
+.linha1{
+    height: 580px;
+}
+
+.linha2{
+    height: 390px;
+}
+
+.linha3{
+    height: 400px;
+}
+
+.col01{ 
+    text-align: center;
+    font-size: 23px;
+    color: white;
+    text-justify: inter-word;
+    text-align: justify;
+}
+
+.col02{
+    background-image: url(./imagens/promocao1.png);
+    background-repeat: no-repeat;
+    background-size: 650px;
+    background-position-x: center;
+    background-position-y: center;
+    border: 3px solid rgb(196, 186, 186);
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 3px #A36188;
+}
+
+.col03{
+    background-image: url(./imagens/promocao2.png);
+    background-repeat: no-repeat;
+    background-size: 650px;
+    background-position-x: center;
+    background-position-y: center;
+    border: 3px solid rgb(196, 186, 186);
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 3px #A36188;
+}
+
+.bo{
+    border: 3px solid rgb(196, 186, 186);
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 3px #A36188;
+}
+
+.container2{
+    width: 1024px;
+    height: 900px;
+}
+
+.linhaum{
+    height: 100px;
+}
+
+.linhadois{
+    height: 256px;
+}
+
+.linhatres{
+    height: 50px;
+}
+
+.coluna01{
+    background-color:#1D1D1E;
+}
+
+.coluna03{
+    background-color:#A36188;
+}
+
+.qq{
+    border: 3px solid rgb(196, 186, 186);
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 3px #A36188;
+    margin: 15px;
+    background-size: cover;
+}
+
+.qq:hover {
+    filter: brightness(0.4);
+}
+
+.q1{
+    background-image: url("https://www.flordecor.com.br/wp-content/uploads/2019/05/bouquet-Nathalia-Fernandes-fb.jpg");
+    background-size: 400px;
+    background-repeat: no-repeat;
+    background-position-x: -80px;
+    background-position-y: -90px;
+}
+
+.q2{
+    background-image: url("https://img.elo7.com.br/product/original/16F4554/buque-de-hortencias-vermelho-escuro-bouquet-azul.jpg");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position-x: -305px;
+    background-position-y: -20px;
+}
+
+.q3{
+    background-image: url("https://img.elo7.com.br/product/360x360/1E9C32A/buque-com-lirios-marsala-buque-vinho.jpg");
+    background-size: 390px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -45px;
+}
+
+.q4{
+    background-image: url("https://images.tcdn.com.br/img/img_prod/833634/buque_de_hortencia_azul_de_34cm_148803_1_a5029da0ba25894b6a9e2e7995596e74.jpeg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -65px;
+}
+
+.q5{
+    background-image: url("http://cdn.shopify.com/s/files/1/0232/3591/9949/products/image6_891264ca-47b9-4140-8c92-e307b2b81402_1200x1200.jpg?v=1641156850");
+    background-size: 390px;
+    background-repeat: no-repeat;
+    background-position-x: -100px;
+    background-position-y: center;
+}
+
+.q6{
+    background-image: url("https://ae01.alicdn.com/kf/Hc5ba311cb2f143c284b261bb9a9901544/Buqu-de-rosas-vermelhas-vintage-buqu-de-noivas-e-damas-de-honra-artificial-buqu-de-casamento.jpg_Q90.jpg_.webp");
+    background-size: 490px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -120px;
+}
+
+.q7{
+    background-image: url("https://blog.reisman.com.br/wp-content/uploads/2021/12/7c472da484bc0ed1135522f792d782e5.jpeg");
+    background-size: 530px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -35px;
+}
+
+.q8{
+    background-image: url("https://i.pinimg.com/originals/61/ed/3e/61ed3eeecb78c83f643f7b4e20d49b08.jpg");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.q9{
+    background-image: url("https://i.pinimg.com/originals/95/94/42/9594422cb68d657434bb92af5aa8a10c.jpg");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.q10{
+    background-image: url("https://photos.enjoei.com.br/public/1200x1200/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy81MjA0NzEyLzc3MDM2OWEwMmFmYTAxYTBiN2RlMjllYzkzZTUwOGIyLmpwZw");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.q11{
+    background-image: url("https://i.pinimg.com/736x/26/ab/35/26ab3563fc7626df794730c91e847e75.jpg");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -92px;
+}
+
+.q12{
+    background-image: url("https://revista.caseme.com.br/wp-content/uploads/2019/01/buque-de-noiva-renata-paraiso.png");
+    background-size: 450px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.k1{
+    background-image: url("https://www.dicasdemulher.com.br/wp-content/uploads/2021/03/flores-secas-2.jpg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -88px;
+}
+
+.k2{
+    background-image: url("https://i.pinimg.com/564x/4d/29/a4/4d29a480125f6a9c1eace90d78e530bc.jpg");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-position-x: -35px;
+    background-position-y: -120px;
+}
+
+.k3{
+    background-image: url("https://www.ideiasdecor.com/wp-content/uploads/2019/05/arranjos-de-flores-70.jpg");
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position-x: -16px;
+    background-position-y: -92px;
+}
+
+.k4{
+    background-image: url("https://imagens-revista.vivadecora.com.br/uploads/2019/12/flores-secas-arranjo-grande-com-flores-secas-Instagram-1.jpg");
+    background-size: 330px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+}
+
+.k5{
+    background-image: url("https://imagens-revista.vivadecora.com.br/uploads/2019/12/arranjo-mini-cactos-jardimspterrarios-Fonte-Casa-Vogue.jpeg");
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: bottom;
+}
+
+.k6{
+    background-image: url("https://thefloristguide.com/wp-content/uploads/2022/02/flower-arrangment-in-vase-principles-of-floral-design.jpg");
+    background-size: 360px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.k7{
+    background-image: url("https://imagens-revista.vivadecora.com.br/uploads/2020/07/hortensia-roxa-e-azul-pinterest.jpg");
+    background-size: 280px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -50px;
+}
+
+.k8{
+    background-image: url("https://i.pinimg.com/originals/e9/08/0c/e9080c27d866484b55f105fce158aad3.jpg");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position-x: -115px;
+    background-position-y: -210px;
+}
+
+.k9{
+    background-image: url("https://iloveflores.com/wp-content/uploads/2022/02/Arranjos-Prontos.jpg");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.k10{
+    background-image: url("https://www.ideiasdecor.com/wp-content/uploads/2019/05/arranjos-de-flores-56.jpg");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position-x: -102px;
+    background-position-y: -210px;
+}
+
+.k11{
+    background-image: url("https://images.tcdn.com.br/img/img_prod/959192/arranjo_desidratado_centros_vaso_dourado_1529_1_82e4bff62dbf5f740e852c3b5e6cd930.jpeg");
+    background-size: 350px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+}
+
+.k12{
+    background-image: url("https://img.elo7.com.br/product/zoom/1EF0A9A/arranjo-ceramica-vermelho-cactos-e-suculentas-suculentas.jpg");
+    background-size: 380px;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -40px;
+}
+
+.sobre1{
+    background-image: url(./imagens/mapaVimia.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    border: 3px solid rgb(196, 186, 186);
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px 3px #A36188;
+    background-size: cover;
+}
+
+.containerTam2{
+    width: 1024px;
+    height: 1000px;
+}
+
+.lin1{
+    height: 580px;
+}
+
+.lin2{
+    height: 300px;
+}
+
+.containerTam3{
+    width: 1024px;
+    height: 400px;
+}
+
+.nlin1{
+    height: 200px;
+}
+
+.nlin2{
+    height: 200px;
+}
